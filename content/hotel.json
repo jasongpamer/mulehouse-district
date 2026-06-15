@@ -2,13 +2,13 @@
   "eyebrow": "The Anchor · The Hotel",
   "headline": "80 keys,",
   "headline_turn": "steps from the stage.",
-  "body": "A Hilton Tapestry Collection hotel by Purpose Lodging — room blocks for venue events, spa access, and VIP privileges woven into every stay.",
+  "body": "A Hilton Tapestry Collection hotel by Purpose Lodging – room blocks for venue events, spa access, and VIP privileges woven into every stay.",
   "image": "/images/hotel-exterior.jpg",
   "image_alt": "80-key Hilton Tapestry Collection hotel",
   "stats": [
     { "label": "Development", "value": "80 keys · $275K/key" },
     { "label": "Performance", "value": "70–74% occ · $245–285 ADR" },
     { "label": "Stabilized NOI", "value": "~$2.5M", "gold": true },
-    { "label": "Comparable", "value": "The Wilbur — Lititz, PA (Tapestry)" }
+    { "label": "Comparable", "value": "The Wilbur – Lititz, PA (Tapestry)" }
   ]
 }

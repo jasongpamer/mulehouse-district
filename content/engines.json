@@ -2,27 +2,27 @@
   "eyebrow": "The Flywheel",
   "headline": "Seven engines.",
   "headline_turn": "One crowd.",
-  "body": "A hotel, restaurant, speakeasy, ballroom, spa, private club, and market — each programmed to feed the others. Hotel guests fill the venue. Venue crowds fill the restaurant. Club members fill the hotel.",
+  "body": "A hotel, restaurant, speakeasy, ballroom, spa, private club, and market – each programmed to feed the others. Hotel guests fill the venue. Venue crowds fill the restaurant. Club members fill the hotel.",
   "engines": [
     {
       "number": "01",
       "name": "Event Venue · 800 Seats",
-      "description": "The anchor — a converted landmark church. Advised by the operators of the Ryman Auditorium."
+      "description": "The anchor – a converted landmark church. Advised by the operators of the Ryman Auditorium."
     },
     {
       "number": "02",
       "name": "Wood-Fire & Amaro",
-      "description": "Chef Joel Valente — three Michelin stars. First floor. Premium without pretension."
+      "description": "Chef Joel Valente – three Michelin stars. First floor. Premium without pretension."
     },
     {
       "number": "03",
       "name": "Speakeasy & Cigar Lounge",
-      "description": "Basement, with an acoustic breakout stage. Craft cocktails — the late-night destination after shows."
+      "description": "Basement, with an acoustic breakout stage. Craft cocktails – the late-night destination after shows."
     },
     {
       "number": "04",
       "name": "Ballroom · 4,000 SF",
-      "description": "Corporate events, weddings, city programming — weekday revenue."
+      "description": "Corporate events, weddings, city programming – weekday revenue."
     },
     {
       "number": "05",
@@ -32,17 +32,17 @@
     {
       "number": "06",
       "name": "Private VIP Club",
-      "description": "Side-stage access and two-way glass overlooking the hall — a members-only room woven into the venue calendar."
+      "description": "Side-stage access and two-way glass overlooking the hall – a members-only room woven into the venue calendar."
     },
     {
       "number": "07",
       "name": "Breakfast Market",
-      "description": "The district’s morning anchor — locally sourced, open daily, pulling steady foot traffic onto the block."
+      "description": "The district’s morning anchor – locally sourced, open daily, pulling steady foot traffic onto the block."
     },
     {
       "number": "+",
       "name": "80-Key Tapestry Hotel",
-      "description": "A Hilton Tapestry Collection hotel by Purpose Lodging — steps from the stage."
+      "description": "A Hilton Tapestry Collection hotel by Purpose Lodging – steps from the stage."
     }
   ]
 }
