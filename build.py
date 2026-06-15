@@ -372,11 +372,11 @@ page = f"""<!DOCTYPE html>
     }}
     .cta::before {{
       content: ''; position: absolute; inset: 0;
-      background: linear-gradient(to top, rgba(10,7,3,0.95) 0%, rgba(10,7,3,0.7) 100%);
+      background: rgba(10,7,3,0.92);
       z-index: 1;
     }}
     .cta-bg {{ position: absolute; inset: 0; z-index: 0; }}
-    .cta-bg img {{ width: 100%; height: 100%; object-fit: cover; opacity: 0.4; }}
+    .cta-bg img {{ width: 100%; height: 100%; object-fit: cover; object-position: center top; opacity: 0.15; }}
     .cta-frame {{
       position: absolute; inset: 40px;
       border: 1px solid var(--gold-07); z-index: 2; pointer-events: none;
