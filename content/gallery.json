@@ -1,0 +1,42 @@
+{
+  "eyebrow": "The District in Pictures",
+  "subtitle": "The hall, as found.",
+  "items": [
+    {
+      "image": "/images/mezzanine.jpg",
+      "alt": "The Mezzanine",
+      "title": "The Mezzanine",
+      "caption": "Balcony rail to stage — every seat close."
+    },
+    {
+      "image": "/images/stage.jpg",
+      "alt": "The Stage",
+      "title": "The Stage",
+      "caption": "Stained glass. Crystal chandeliers. Never forgotten."
+    },
+    {
+      "image": "/images/speakeasy-bar.jpg",
+      "alt": "The Speakeasy",
+      "title": "The Speakeasy",
+      "caption": "Below the hall — cocktails after the encore."
+    },
+    {
+      "image": "/images/woodfire.jpg",
+      "alt": "Wood-Fire and Amaro",
+      "title": "Wood-Fire & Amaro",
+      "caption": "Three Michelin stars. First floor."
+    },
+    {
+      "image": "/images/ballroom.jpg",
+      "alt": "The Ballroom",
+      "title": "The Ballroom",
+      "caption": "4,000 square feet on the top floor."
+    },
+    {
+      "image": "/images/club-interior.jpg",
+      "alt": "The Club",
+      "title": "The Club",
+      "caption": "Members only, side-stage to the hall."
+    }
+  ]
+}

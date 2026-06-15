@@ -1,0 +1,38 @@
+{
+  "eyebrow": "The Operators",
+  "headline": "Skin in the game,",
+  "headline_turn": "in every engine.",
+  "body": "Not consultants — operators whose own P&L depends on getting this right.",
+  "operators": [
+    {
+      "name": "Gettys Group",
+      "role": "Design & Programming",
+      "description": "Chicago-based hospitality owner-operator. Best-in-class for lifestyle hotels and mixed-use. District-wide programming lead."
+    },
+    {
+      "name": "Ryman Entertainment",
+      "role": "Venue Strategy",
+      "description": "Operators of the Ryman Auditorium. Advising on booking, guest experience, and touring-circuit positioning."
+    },
+    {
+      "name": "Purpose Lodging",
+      "role": "Hotel Development & Ops",
+      "description": "Ryan Morgan leads the Hilton Tapestry franchise, lender coordination, and hotel operations under HMA."
+    },
+    {
+      "name": "Chef Joel Valente",
+      "role": "F&B — Wood-Fire & Amaro",
+      "description": "Three Michelin stars. Leading the wood-fire pizza and amaro bar. Premium without pretension."
+    },
+    {
+      "name": "Barron Solomon",
+      "role": "Private VIP Club",
+      "description": "Two-time private club founder, Nashville and Franklin. Top-floor VIP with side-stage access."
+    },
+    {
+      "name": "Jason Pamer",
+      "role": "Capital, Content & Strategy",
+      "description": "$20M+ raised across film, tech, and hospitality. Producer of After Death. Franklin, TN local."
+    }
+  ]
+}
